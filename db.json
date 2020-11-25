@@ -1,18 +1,20 @@
-    [
-        {
-            "interviewNumber": 1,
-            "gender": 1,
-            "age": 1,
-            "P1": 1,
-            "P2": 2,
-            "P3": "Es muy lejos"
-        },
-        {
-            "interviewNumber": 2,
-            "gender": 2,
-            "age": 2,
-            "P1": 3,
-            "P2": 5,
-            "P3": "Tiene gran variedad de almacenes"
-        }
-    ]
+    {
+        "interviews": [
+            {
+                "interviewNumber": 1,
+                "gender": 1,
+                "age": 1,
+                "P1": 1,
+                "P2": 2,
+                "P3": "Es muy lejos"
+            },
+            {
+                "interviewNumber": 2,
+                "gender": 2,
+                "age": 2,
+                "P1": 3,
+                "P2": 5,
+                "P3": "Tiene gran variedad de almacenes"
+            }
+        ]
+    }
